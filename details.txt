@@ -1,0 +1,20 @@
+pages:
+- task view
+	- add task -> task creation
+	- sort by (popup button selection)
+	- filter by (popup checkbox selection)
+    - task object
+		- title
+		- date created
+		- time to do
+		- description
+		- colour
+		- 
+	- swipe to edit -> taask details
+	- click to expand (show more)
+	- hold and drag to reorder
+- task details
+	- edit task (confirm) -> task view
+	- back (cancel) -> task view
+	- delete -> task view
+- setting
